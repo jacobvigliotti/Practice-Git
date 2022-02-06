@@ -6,12 +6,8 @@
 
 #Function 1 [40 points]
 def displayInfo(petDictionary):
-    '''
-    This function takes the pet dictionary as the input (parameter).
-    It displays the data of each pet in following format:
-    (<key>) <name> is a <type> and is <age> years old.
-    '''
     #function iterates through keys of dictionary
+    # This function inputs petDictionary
     for key in petDictionary:
         #inner loop iterates through values of each dictionary key
         for value in petDictionary[key]:
