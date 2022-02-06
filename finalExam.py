@@ -1,6 +1,7 @@
 # READ THE DIRECTIONS GIVEN IN THE PDF FILE!!!!
 # READ THE DIRECTIONS GIVEN IN THE PDF FILE!!!!
 # COMMENT ON YOUR CODE!
+#Jake adding a comment
 # ______________________________________________________
 
 #Function 1 [40 points]
