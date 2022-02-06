@@ -7,6 +7,7 @@
 #Function 1 [40 points]
 def displayInfo(petDictionary):
     #function iterates through keys of dictionary
+    # This function inputs petDictionary
     for key in petDictionary:
         #inner loop iterates through values of each dictionary key
         for value in petDictionary[key]:
